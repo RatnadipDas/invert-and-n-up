@@ -1,0 +1,10 @@
+Deprecated==1.2.14
+img2pdf==0.5.1
+lxml==5.2.2
+packaging==24.1
+pdf2image==1.17.0
+pikepdf==9.1.0
+pillow==10.4.0
+PyMuPDF==1.24.9
+PyMuPDFb==1.24.9
+wrapt==1.16.0
