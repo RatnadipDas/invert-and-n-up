@@ -1,4 +1,4 @@
-# invert_and_n_up
+# invert-and-n-up
 
 # Start Up
 Create and setup a virtual environment using following command
