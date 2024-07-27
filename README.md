@@ -1,7 +1,7 @@
 # invert_and_n_up
 
 # Start Up
-Generate and setup a virtual environment using following command
+Create and setup a virtual environment using following command
 ```bash
 python -m venv .venv
 source ./.venv/bin/activate.fish
