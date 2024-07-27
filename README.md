@@ -5,11 +5,11 @@ Generate and setup a virtual environment using following command
 ```bash
 python -m venv .venv
 source ./.venv/bin/activate.fish
-pip install --upgrade pip
 ```
 
 Then, install the requirements using command
 ```bash
+pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
